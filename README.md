@@ -16,6 +16,7 @@
 
 ▶️ The computer returns the information whether the number is greater or less than the number you selected until you guess the correct number.
 
+![image](https://github.com/StefanHristov1997/GuessANumber_Console_Game/assets/133797718/61118eed-729b-40d7-bf7e-4774f917a3c6)
 
 # Solution
 
