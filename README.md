@@ -1,4 +1,4 @@
-# GuessANumber_Console_Game 🤩 🤩
+# GuessANumber_ConsoleGameByStefanHristov 🤩 🤩
  
  This is my second console game "Guess a Number" which your purpose is to guess the computer number between 1-100. 😮
  
