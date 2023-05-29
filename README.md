@@ -19,7 +19,7 @@
 
 # Solution
 
-🤔 For solution i used while loop, for loop and a few if-else checks to complete the final rezult. 🤔
+🤔 For solution i used while loop, for loop and a few if-else checks to complete the final result. 🤔
 
 
 [Source code] https://github.com/StefanHristov1997/GuessANumber_Console_Game/blob/main/src/GuessANumber.java
