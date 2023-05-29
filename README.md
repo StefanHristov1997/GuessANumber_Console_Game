@@ -10,6 +10,20 @@
  ![image](https://github.com/StefanHristov1997/GuessANumber_Console_Game/assets/133797718/763858cc-f199-4341-8919-845a07030213)
  ![image](https://github.com/StefanHristov1997/GuessANumber_Console_Game/assets/133797718/d667eddc-31a5-48b0-ad58-e776e214d42a)
 
+# INPUT & OUTPUT
+
+▶️ The input is very simple, you sould choose the numbers between 1 - 100 then press "Enter".
+
+▶️ The computer returns the information whether the number is greater or less than the number you selected until you guess the correct number.
+
+
+# Solution
+
+🤔 For solution i used while loop, for loop and a few if-else checks to complete the final rezult. 🤔
+
+
+[Source code] https://github.com/StefanHristov1997/GuessANumber_Console_Game/blob/main/src/GuessANumber.java
+
 
  
  
