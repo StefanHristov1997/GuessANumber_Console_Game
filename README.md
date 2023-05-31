@@ -12,7 +12,7 @@
 
 # INPUT & OUTPUT
 
-▶️ The input is very simple, you sould choose the numbers between 1 - 100 then press "Enter".
+▶️ The input is very simple, you should choose the numbers between 1 - 100 then press "Enter".
 
 ▶️ The computer returns the information whether the number is greater or less than the number you selected until you guess the correct number.
 
